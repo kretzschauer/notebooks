@@ -55,3 +55,4 @@ def lift (vec):
 # returns 3-dimensional equivalent of a homogeneous vector
 def lower (vec):
     return Vector(vec[0] / vec[3], vec[1] / vec[3], vec[2] / vec[3])
+#zusaetliche Zeile
