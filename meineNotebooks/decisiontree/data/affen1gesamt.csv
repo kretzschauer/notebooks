@@ -1,0 +1,41 @@
+Nummer,Auge_li,Auge_re,Mund,Ass,Beschriftung,Label 
+3,x,x,Zahn,keins,BN,test
+6,offen,zu,Grinsen,keins,B,test
+8,zu,zu,Grinsen,keins,BN,test
+11,x,x,grimmig,keins,BN,test
+13,offen,offen,weit offen,keins,B,test
+18,offen,zu,Zunge,keins,B,test
+20,zu,zu,Zunge,keins,BN,test
+21,offen,offen,verschmitzt,Augenbinde,BN,test
+26,offen,zu,Grinsen,Pflaster_rechts,BN,test
+27,x,x,Grinsen,Haare,BN,test
+29,offen,offen,grimmig,Augenbinde,BN,test
+31,x,x,grimmig,Pflaster_links,BN,test
+34,offen,zu,weit offen,Pflaster_rechts,B,test
+1,offen,offen,Zahn,keins,B,training
+2,offen,zu,Zahn,keins,B,training
+4,zu,zu,Zahn,keins,BN,training
+5,offen,offen,Grinsen,keins,B,training
+7,x,x,Grinsen,keins,BN,training
+9,offen,offen,grimmig,keins,B,training
+10,offen,zu,grimmig,keins,B,training
+12,zu,zu,grimmig,keins,BN,training
+14,offen,zu,weit offen,keins,B,training
+15,x,x,weit offen,keins,B,training
+16,zu,zu,weit offen,keins,B,training
+17,offen,offen,Zunge,keins,B,training
+19,x,x,Zunge,keins,BN,training
+22,offen,zu,Zahn,Brille,BN,training
+23,x,x,Zahn,Pflaster_links,BN,training
+24,zu,zu,Zahn,keins,BN,training
+25,offen,offen,Grinsen,Brille,BN,training
+28,offen,offen,Grinsen,keins,B,training
+30,offen,zu,grimmig,Haarschleife,BN,training
+32,zu,zu,grimmig,Brille,BN,training
+33,offen,offen,weit offen,Brille,B,training
+35,x,x,weit offen,keins,B,training
+36,zu,zu,weit offen,Haarschleife,B,training
+37,offen,offen,Zunge,Augenbinde,BN,training
+38,offen,zu,Zunge,Brille,BN,training
+39,x,x,Zunge,Pflaster_links,BN,training
+40,zu,zu,Zunge,keins,BN,training

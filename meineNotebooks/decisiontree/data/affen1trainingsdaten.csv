@@ -1,0 +1,28 @@
+Nummer;Auge_li;Auge_re;Mund;Ass;Beschriftung
+1;offen;offen;Zahn;keins;B
+2;offen;zu;Zahn;keins;B
+4;zu;zu;Zahn;keins;BN
+5;offen;offen;Grinsen;keins;B
+7;x;x;Grinsen;keins;BN
+9;offen;offen;grimmig;keins;B
+10;offen;zu;grimmig;keins;B
+12;zu;zu;grimmig;keins;BN
+14;offen;zu;weit offen;keins;B
+15;x;x;weit offen;keins;B
+16;zu;zu;weit offen;keins;B
+17;offen;offen;Zunge;keins;B
+19;x;x;Zunge;keins;BN
+22;offen;zu;Zahn;Brille;BN
+23;x;x;Zahn;Pflaster_links;BN
+24;zu;zu;Zahn;keins;BN
+25;offen;offen;Grinsen;Brille;BN
+28;offen;offen;Grinsen;keins;B
+30;offen;zu;grimmig;Haarschleife;BN
+32;zu;zu;grimmig;Brille;BN
+33;offen;offen;weit offen;Brille;B
+35;x;x;weit offen;keins;B
+36;zu;zu;weit offen;Haarschleife;B
+37;offen;offen;Zunge;Augenbinde;BN
+38;offen;zu;Zunge;Brille;BN
+39;x;x;Zunge;Pflaster_links;BN
+40;zu;zu;Zunge;keins;BN

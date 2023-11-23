@@ -1,0 +1,14 @@
+Nummer;Auge_li;Auge_re;Mund;Ass;Beschriftung
+3;x;x;Zahn;keins;BN
+6;offen;zu;Grinsen;keins;B
+8;zu;zu;Grinsen;keins;BN
+11;x;x;grimmig;keins;BN
+13;offen;offen;weit offen;keins;B
+18;offen;zu;Zunge;keins;B
+20;zu;zu;Zunge;keins;BN;test
+21;offen;offen;verschmitzt;Augenbinde;BN
+26;offen;zu;Grinsen;Pflaster_rechts;BN
+27;x;x;Grinsen;Haare;BN
+29;offen;offen;grimmig;Augenbinde;BN
+31;x;x;grimmig;Pflaster_links;BN
+34;offen;zu;offen;Pflaster_rechts;B

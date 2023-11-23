@@ -1,0 +1,15 @@
+Nummer;Auge_li;Auge_re;Mund;Beschriftung
+3;x;x;Zahn;B
+5;offen;offen;Grinsen;B
+8;zu;zu;Grinsen;B
+11;x;x;grimmig;B
+15;x;x;weit offen;B
+19;x;x;Zunge;B
+1;offen;offen;Zahn;BN
+2;offen;zu;Zahn;BN
+10;offen;zu;grimmig;BN
+12;zu;zu;grimmig;BN
+13;offen;offen;weit offen;BN
+14;offen;zu;weit offen;BN
+18;offen;zu;Zunge;BN
+20;zu;zu;Zunge;BN

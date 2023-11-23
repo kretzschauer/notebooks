@@ -1,0 +1,13 @@
+Nummer;Auge_links;Auge_rechts;Mund_auf_zu;Mund;Beschriftung
+1;auf;auf;auf;Zahn;beißt nicht
+2;auf;zu;auf;Zahn;beißt nicht
+4;zu;zu;auf;Zahn;beißt nicht
+6;auf;zu;zu;Grinsen;beißt
+7;x;x;zu;Grinsen;beißt
+8;zu;zu;zu;Grinsen;beißt
+9;auf;auf;zu;grimmig;beißt nicht
+12;zu;zu;zu;grimmig;beißt nicht
+14;auf;zu;auf;weit geöffnet;beißt nicht
+15;x;x;auf;weit geöffnet;beißt
+17;auf;auf;auf;Zunge;beißt nicht
+18;auf;zu;auf;Zunge;beißt nicht
